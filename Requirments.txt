@@ -1,0 +1,5 @@
+pip install numpy
+pip install pickle-mixin
+pip install streamlit
+pip install streamlit-opton-menu
+pip install scikit-learn
